@@ -1,10 +1,2 @@
- Volume in drive E is New Volume
- Volume Serial Number is 8CCA-0F9E
 
- Directory of E:\git_local_repo
-
-27-01-2021  12:20    <DIR>          .
-27-01-2021  12:20    <DIR>          ..
-27-01-2021  12:20                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  320,040,656,896 bytes free
+Change 1 done............
